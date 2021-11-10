@@ -1,9 +1,11 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Polina",
-  "description": "Project",
+  "author": "Polina Slynkosky",
+  "description": "A project that does something awesome!",
   "keywords": [
-    "freecodecamp"
+    "freecodecamp",
+    "descriptive",
+    "related"
   ],
   "license": "MIT",
   "version": "1.2.0",
